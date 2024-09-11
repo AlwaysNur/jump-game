@@ -1,3 +1,3 @@
 # jump-game
-#funnnn
-#play on godot
+funnnn
+play on godot
